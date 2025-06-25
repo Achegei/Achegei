@@ -10,11 +10,15 @@ I'm a passionate Full Stack Developer 🚀 based in Kenya 🇰🇪, working with
 
 ## 📈 Projects
 - [ChatApp](https://github.com/Achegei/ChatApp) – Real-time chat with Laravel + Reverb
-- [SpaceTaxi](https://github.com/spacetaxi4ke/Backend) – Taxi booking backend in Laravel
+- [SIMS](https://github.com/Achegei/sims_demo.git) – Simple Student Management Information System in Laravel
+- [TodoList](https://github.com/Achegei/Todolist.git) – TodoList in Laravel
+- [UserApp](https://github.com/Achegei/User-Flutter.git) – Taxi booking App in Flutter
+- [DriverApp](https://github.com/Achegei/Driver-Flutter.git) – Taxi booking App in Flutter
+- [Backend](https://github.com/Achegei/space-new.git) – Taxi booking backend in Laravel
 - More coming soon...
 
 ## 💬 Let's Connect!
-- 📧 Email: you@example.com
+- 📧 Email: kipserem.ekitelah@gmail.com
 - 🌐 Portfolio: [your-website.com](https://your-website.com)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
