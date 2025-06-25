@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Laban Kipserem Ekitela
 
-<!--
-**Achegei/Achegei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer 🚀 based in Kenya 🇰🇪, working with Laravel, Livewire, Flutter, and AI integrations.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- ⚙️ PHP (Laravel, Livewire)
+- 📱 Flutter & Firebase
+- 🔌 API integrations (Twilio, Reverb, Pusher)
+- 🛠 DevOps: Apache, NGINX, Git, SSH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects
+- [ChatApp](https://github.com/Achegei/ChatApp) – Real-time chat with Laravel + Reverb
+- [SpaceTaxi](https://github.com/spacetaxi4ke/Backend) – Taxi booking backend in Laravel
+- More coming soon...
+
+## 💬 Let's Connect!
+- 📧 Email: you@example.com
+- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+_“Building better tools. One line of code at a time.”_
+
