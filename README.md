@@ -19,7 +19,7 @@ I'm a passionate Full Stack Developer 🚀 based in Kenya 🇰🇪, working with
 
 ## 💬 Let's Connect!
 - 📧 Email: kipserem.ekitelah@gmail.com
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- 🌐 Portfolio: [your-website.com](https://achegei.github.io/)
 - 🐦 Twitter: [@yourhandle](https://achegei.github.io/)
 - 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
 
