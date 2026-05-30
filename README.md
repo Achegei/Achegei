@@ -8,7 +8,7 @@ Hi, I'm Laban Kipserem Ekitela
 
 💻 GitHub: https://github.com/Achegei
 
-🌐 Portfolio: https://achegei.github.io
+🌐 Portfolio: [https://achegei.github.io](https://portfolio-laban.streamlit.app/)
 
 🔗 LinkedIn: https://linkedin.com/in/ekitela-laban
 
