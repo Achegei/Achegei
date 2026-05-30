@@ -1,175 +1,268 @@
-👋 Laban Kipserem Ekitela
+Hi, I'm Laban Kipserem Ekitela
 
-Full-Stack Developer | AI Agents & Workflow Automation Engineer
-📍 Nairobi, Kenya | 📧 kipserem.ekitelah@gmail.com
- | 📞 +254 768 282 146 / 0737 955 021
-💻 GitHub: Achegei
- | 🌐 Portfolio: achegei.github.io
+**Full-Stack Software Engineer | Python & Machine Learning Engineer | AI Automation Specialist**
+
+📍 Nairobi, Kenya
+
+📧 [kipserem.ekitelah@gmail.com](mailto:kipserem.ekitelah@gmail.com)
+
+💻 GitHub: https://github.com/Achegei
+
+🌐 Portfolio: https://achegei.github.io
+
+🔗 LinkedIn: https://linkedin.com/in/ekitela-laban
+
+🎥 YouTube: SuperAgentic AI
+
+🎵 TikTok: AsemaTech
+
+
+## About Me
+
+I'm a software engineer passionate about building scalable applications, intelligent automation systems, machine learning solutions, and AI-powered business tools.
+
+Over the past several years, I have designed, developed, deployed, and maintained production-grade web, mobile, and automation systems across transportation, education, e-commerce, and business operations.
+
+My experience spans full-stack development, DevOps, machine learning, workflow automation, cloud infrastructure, and AI systems engineering.
+
+Previously, I worked as a Full-Stack Developer & DevOps Engineer at Space Taxi Limited, where I maintained and scaled a complete ride-hailing ecosystem including backend APIs, mobile applications, deployment pipelines, and production infrastructure.
+
+Today, I am a Co-Founder of Moose Loon AI Academy, where we are driving AI literacy in Africa through practical education, automation systems, AI agents, and workflow engineering.
+
+> "Turning ideas into intelligent systems, automating workflows, and building software that scales."
+
+## What I Do
+
+### Full-Stack Software Engineering
+
+* Laravel Application Development
+* REST API Design & Development
+* Database Design & Optimization
+* Flutter Mobile Applications
+* WordPress & WooCommerce Solutions
+* Cloud Deployment & Infrastructure
+
+### AI & Automation Engineering
+
+* AI Agents Development
+* Workflow Automation Systems
+* Prompt Engineering
+* Business Process Automation
+* API Integrations
+* AI-Powered Operational Workflows
+
+### Python, Data Science & Machine Learning
+
+* Python Programming
+* Pandas & NumPy
+* Jupyter Notebook
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* Machine Learning with Scikit-learn
+* Model Training & Evaluation
+* Data Visualization with Matplotlib
+* Automation & Reporting Systems
+
+### DevOps & Infrastructure
+
+* Linux Administration
+* Docker
+* CI/CD Pipelines
+* GitHub Actions
+* Nginx & Apache
+* SSL & Security Management
+* Production Server Management
+* Monitoring & Deployment Automation
+
+## 🛠️ Technology Stack
+
+### Languages
+
+Python
+PHP
+JavaScript
+SQL
+Dart
+
+### Backend & APIs
+
+* Laravel
+* FastAPI
+* Livewire
+* REST APIs
+* MySQL
+* Redis
+* API Versioning
+* Swagger Documentation
+
+### Frontend
+
+* Vue.js
+* React.js
+* Blade
+* Bootstrap
+* Tailwind CSS
+* Responsive Design
+
+### Mobile
+
+* Flutter
+* Firebase
+* Android & iOS Deployment
+
+### AI & Machine Learning
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
+* AI Agents
+* Workflow Automation
+
+### DevOps
+
+* Linux
+* Docker
+* GitHub Actions
+* Nginx
+* Apache
+* SSL
+* CI/CD
+
+## Professional Experience
+
+### Co-Founder | Moose Loon AI Academy
+
+**2025 – Present**
+
+* Driving AI literacy initiatives across Africa
+* Building AI-powered education systems
+* Developing automation solutions for businesses
+* Designing AI workflows and intelligent learning platforms
+* Creating practical AI training programs focused on real-world implementation
+
+### Full-Stack Developer & DevOps Engineer | Space Taxi Limited
+
+**2023 – 2025**
+
+* Maintained and scaled a production ride-hailing ecosystem
+* Developed backend APIs and administrative systems
+* Managed Flutter applications for Android and iOS
+* Built CI/CD deployment pipelines
+* Managed Ubuntu-based production infrastructure
+* Maintained near-zero downtime systems
+
+### Freelance Software Engineer
+
+**2023 – Present**
+
+* Web Application Development
+* Mobile App Development
+* AI Automation Systems
+* API Integrations
+* Cloud Deployments
+* Business Process Automation
+
+## Featured Projects
+
+### Space Taxi Platform
+
+Production ride-hailing ecosystem with:
+
+* Laravel Backend
+* Flutter Mobile Applications
+* Real-time Operations Dashboard
+* API Infrastructure
+
+### IQRA Canada Test Platform
+
+Educational assessment platform featuring:
+
+* User Authentication
+* Online Testing
+* Performance Tracking
+* Administrative Dashboards
+
+### AI Automation Systems
+
+* AI Agents
+* Lead Generation Workflows
+* Business Automation Systems
+* API-Powered Operations
+
+### School Portal
+
+School management platform with:
+
+* Student Management
+* Academic Tracking
+* Administrative Tools
+* Data Analytics
+* Machine Learning
+* Building ERP system
+
+### Multi-Vendor eCommerce Platform
+
+* Vendor Management
+* Product Catalogs
+* Order Processing
+* Customer Management
+
+## Current Focus
+* Machine Learning Engineering
+* AI Agent Architecture
+* Advanced Python Development
+* Rust Programming
+* Secure Systems Engineering
+* Cloud Infrastructure
+* Workflow Automation at Scale
+* Agentic AI Systems
+  
+## Content & Community
+I actively share practical knowledge on:
+
+* AI Agents
+* Workflow Automation
+* Python Development
+* Machine Learning
+* Software Engineering
+* Business Automation
+* AI Education
+
+### Platforms
+
+🎥 YouTube: SuperAgentic AI
 
 🔗 LinkedIn: Laban Ekitela
- | 🎥 YouTube: SuperAgentic AI
- | 🎵 TikTok: AsemaTech
 
-“Building better tools. One line of code at a time.”
+🎵 TikTok: AsemaTech
 
-💼 Professional Summary
+##  Let's Connect
 
-Results-driven Full-Stack Developer and AI Automation Specialist with 3+ years of hands-on experience building, deploying, and maintaining production-grade web and mobile applications. Expertise includes Laravel, Flutter, REST APIs, MySQL, Linux server administration, and Python for automation and data visualization.
+I'm always interested in collaborating on:
 
-Former core developer at Space Taxi Ltd (2023–2025), maintaining a complete ride-hailing ecosystem with backend APIs, admin dashboards, and Flutter mobile apps. Currently focused on AI Agents, workflow automation, and intelligent business solutions, with active technical content creation on YouTube, LinkedIn, and TikTok.
+* AI Projects
+* Software Engineering
+* Machine Learning Solutions
+* Automation Systems
+* Startup Technology
+* Open Source Projects
 
-Known for ownership mindset, rapid learning, and building reliable, revenue-generating software.
+📧 Email: [kipserem.ekitelah@gmail.com](mailto:kipserem.ekitelah@gmail.com)
 
-🔧 Core Skills
-Backend & APIs
+🌐 Portfolio: https://achegei.github.io
 
-PHP (OOP, MVC), Laravel (8–12), Livewire
+💻 GitHub: https://github.com/Achegei
 
-MySQL, Redis, database design & optimization
+🔗 LinkedIn: https://linkedin.com/in/ekitela-laban
 
-RESTful APIs, API versioning, Postman, Laravel Swagger
 
-Python (automation, data processing, Pandas)
+### Philosophy
 
-Frontend & Web
-
-Blade, Vue.js, JavaScript (ES6+), jQuery
-
-Bootstrap, responsive design, WordPress (WPBakery, Elementor)
-
-Website architecture & end-to-end web development
-
-Mobile Development
-
-Flutter (iOS & Android), Firebase (Auth, Notifications)
-
-Xcode, App Store & Play Store deployment
-
-DevOps & Infrastructure
-
-Linux (Ubuntu), CLI, server monitoring
-
-Nginx, Apache, SSL, Cron Jobs
-
-Docker, CI/CD (GitHub Actions)
-
-Data & Analytics
-
-Python Pandas for data cleaning, transformation, and reporting
-
-Matplotlib for analytical charting and dashboards
-
-Basic data exploration for operational insights
-
-AI & Automation
-
-AI Agents architecture & workflow automation
-
-Prompt engineering & AI tooling
-
-Python-powered automation for operational efficiency
-
-Tools & Collaboration
-
-Git & GitHub, Agile task management
-
-Figma & wireframing
-
-SEO & performance optimization
-
-📂 Notable Projects
-
-ChatApp – GitHub
- | Real-time chat with Laravel + Reverb
-
-SIMS – GitHub
- | Student Management System in Laravel
-
-TodoList – GitHub
- | Laravel-based task manager
-
-UserApp – GitHub
- | Taxi booking app in Flutter
-
-DriverApp – GitHub
- | Taxi driver app
-
-Backend – GitHub
- | Taxi booking backend APIs
-
-School Portal – GitHub
- | Education management platform
-
-Multivendor eCommerce – GitHub
- | Marketplace platform
-
-…and more coming soon.
-
-🏆 Professional Experience
-
-Full-Stack Developer & DevOps Engineer – Space Taxi Limited
-March 2023 – December 2025
-
-Maintained and scaled Laravel-based ride-hailing backend with live users
-
-Developed and enhanced Blade admin dashboards for operations & analytics
-
-Built advanced distance-based fare calculation logic
-
-Deployed and managed Flutter apps on iOS & Android
-
-Managed Ubuntu/Nginx servers, SSL, cron jobs, backups, CI/CD pipelines
-
-Led API versioning, testing, and documentation
-
-WordPress Designer & Developer (Freelance)
-January 2023 – Present
-
-Built & maintained WordPress/WooCommerce sites including Izyitdigital
-
-Converted UI wireframes into fully responsive designs (WPBakery & Elementor)
-
-Managed hosting, updates, plugin compatibility, and performance optimization
-
-Freelance Web, Mobile & AI Automation Developer
-January 2023 – Present
-
-Designed full-stack applications & automation workflows
-
-Integrated payments, dashboards, APIs, and AI tools
-
-Built Python-based data processing utilities for reporting and automation
-
-🎥 AI Content & Thought Leadership
-
-Active technical content on AI Agents & Workflow Automations
-
-Demonstrate Python-based automation, data processing, and visualization
-
-Platforms: YouTube: SuperAgentic AI | LinkedIn: Professional AI posts | TikTok: Short-form AI demos
-
-🎓 Education & Certifications
-
-Self-Taught Software Developer – Continuous learning via projects, GitHub, open-source
-
-Linux Command Line Mastery (2023) – Server setup, SSL, cron jobs, deployments
-
-Flutter iOS & Android Deployment (2024) – Production app publishing
-
-CI/CD with GitHub Actions (2024) – Automated builds & deployments
-
-📬 Contact & Connect
-
-Email: kipserem.ekitelah@gmail.com
-
-Portfolio: achegei.github.io
-
-LinkedIn: linkedin.com/in/ekitela-laban
-
-GitHub: github.com/Achegei
-
-YouTube: SuperAgentic AI
-
-TikTok: AsemaTech
-
-“Turning ideas into intelligent systems, automating workflows, and building tools that scale.”
+> Build useful software.
+> Automate repetitive work.
+> Use AI to amplify human capability.
+> Keep learning.
+> Keep shipping.
